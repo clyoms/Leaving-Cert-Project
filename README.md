@@ -1,2 +1,1 @@
-# Leaving-Cert-Project
-Final project submitted for Leaving Cert Computer Science
+The brief of this project revolved around developing an embedded system which enhanced some aspect of wellbeing. I chose to develop a pedometer using a microbit which i improved using an accelerometer to properly calibrate the number of steps taken. With this information i extracted heartrate data from an apple watch and ran it through multiple programs to gain a deeper insight on the data. I than graphed all the data i recieved onto scatter plot diagrams to make the data easy for the user to interpet
